@@ -15,7 +15,7 @@ import (
 const (
     APIKEY  = "20141110217674"
     APIURL  = "http://api.wwei.cn/dewwei.html"
-    ImgURL  = "http://free.shadowsocks8.cc/images/server02.png"
+    ImgURL  = "http://ishadow.info/img/server02.png"
     CfgPath = "./gui-config.json"
 )
 
